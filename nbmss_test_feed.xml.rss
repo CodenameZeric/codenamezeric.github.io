@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2024
 </copyright>
-    <lastBuildDate>Sat, 29 Jun 2024 12:15:00 -0700</lastBuildDate>
-    <pubDate>Sat, 29 Jun 2024 12:15:00 -0700</pubDate>
+    <lastBuildDate>Sat, 09 Nov 2024 12:15:00 -0700</lastBuildDate>
+    <pubDate>Sat, 09 Nov 2024 12:15:00 -0700</pubDate>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <webMaster>ackdot1@deeptht.armory.com</webMaster>
     <ttl>60</ttl>
@@ -23,96 +23,96 @@
     <itunes:image href="http://www.armory.com/~ack1/share/ZillenBot.jpeg"/>
     <itunes:category text="Music"></itunes:category>
     <item>
-        <title>NBMSS-2024.06.22-Pt1</title>
+        <title>NBMSS-2024.11.02-Pt1</title>
         <link>https://www.kfjc.org/listen/archives</link>
-        <guid>https://kfjc.org/archives/2406220900h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2024-Jun 22-pt1</description>
-        <enclosure url="https://kfjc.org/archives/2406220900h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
+        <guid>https://kfjc.org/archives/2411020900h_robert_emmett.mp3</guid>
+        <description>NBMSS - 2024-Nov 02-pt1</description>
+        <enclosure url="https://kfjc.org/archives/2411020900h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
-        <pubDate>Sat, 22 Jun 2024 10:30:00 -0700</pubDate>
+        <pubDate>Sat, 02 Nov 2024 10:30:00 -0700</pubDate>
         <itunes:author>Robert Emmett and KFJC.org</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:subtitle>NBMSS - Part 1 from Jun 22, 2024</itunes:subtitle>
-        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Jun 22, 2024 - Part 1</itunes:summary>
+        <itunes:subtitle>NBMSS - Part 1 from Nov 02, 2024</itunes:subtitle>
+        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Nov 02, 2024 - Part 1</itunes:summary>
         <itunes:duration>01:10:00</itunes:duration>
         <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
     </item>
     <item>
-        <title>NBMSS-2024.06.22-Pt2</title>
+        <title>NBMSS-2024.11.02-Pt2</title>
         <link>https://www.kfjc.org/listen/archives</link>
-        <guid>https://kfjc.org/archives/2406221000h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2024-Jun 22-pt2</description>
-        <enclosure url="https://kfjc.org/archives/2406221000h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
+        <guid>https://kfjc.org/archives/2411021000h_robert_emmett.mp3</guid>
+        <description>NBMSS - 2024-Nov 02-pt2</description>
+        <enclosure url="https://kfjc.org/archives/2411021000h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
-        <pubDate>Sat, 22 Jun 2024 11:30:00 -0700</pubDate>
+        <pubDate>Sat, 02 Nov 2024 11:30:00 -0700</pubDate>
         <itunes:author>Robert Emmett and KFJC.org</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:subtitle>NBMSS - Part 2 from Jun 22, 2024</itunes:subtitle>
-        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Jun 22, 2024 - Part 2 - This hour usually includes: Bob and Ray, a Cool Secret Place, and The Television Mystery Theme of the Week</itunes:summary>
+        <itunes:subtitle>NBMSS - Part 2 from Nov 02, 2024</itunes:subtitle>
+        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Nov 02, 2024 - Part 2 - This hour usually includes: Bob and Ray, a Cool Secret Place, and The Television Mystery Theme of the Week</itunes:summary>
         <itunes:duration>01:10:00</itunes:duration>
         <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
     </item>
     <item>
-        <title>NBMSS-2024.06.22-Pt3</title>
+        <title>NBMSS-2024.11.02-Pt3</title>
         <link>https://www.kfjc.org/listen/archives</link>
-        <guid>https://kfjc.org/archives/2406221100h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2024-Jun 22-pt3</description>
-        <enclosure url="https://kfjc.org/archives/2406221100h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
+        <guid>https://kfjc.org/archives/2411021100h_robert_emmett.mp3</guid>
+        <description>NBMSS - 2024-Nov 02-pt3</description>
+        <enclosure url="https://kfjc.org/archives/2411021100h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
-        <pubDate>Sat, 22 Jun 2024 12:30:00 -0700</pubDate>
+        <pubDate>Sat, 02 Nov 2024 12:30:00 -0700</pubDate>
         <itunes:author>Robert Emmett and KFJC.org</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:subtitle>NBMSS - Part 3 from Jun 22, 2024
+        <itunes:subtitle>NBMSS - Part 3 from Nov 02, 2024
 </itunes:subtitle>
-        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Jun 22, 2024 - Part 3</itunes:summary>
+        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Nov 02, 2024 - Part 3</itunes:summary>
         <itunes:duration>01:10:00</itunes:duration>
         <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
     </item>
 
     <item>
-        <title>NBMSS-2024.06.29-Pt1</title>
+        <title>NBMSS-2024.11.09-Pt1</title>
         <link>https://www.kfjc.org/listen/archives</link>
-        <guid>https://kfjc.org/archives/2406290900h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2024-Jun 29 pt1</description>
-        <enclosure url="https://kfjc.org/archives/2406290900h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
+        <guid>https://kfjc.org/archives/2411090900h_robert_emmett.mp3</guid>
+        <description>NBMSS - 2024-Nov 09 pt1</description>
+        <enclosure url="https://kfjc.org/archives/2411090900h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
-        <pubDate>Sat, 29 Jun 2024 10:30:00 -0700</pubDate>
+        <pubDate>Sat, 09 Nov 2024 10:30:00 -0700</pubDate>
         <itunes:author>Robert Emmett and KFJC.org</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:subtitle>NBMSS - Part 1 from Jun 29, 2024</itunes:subtitle>
-        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Jun 29, 2024 - Part 1</itunes:summary>
+        <itunes:subtitle>NBMSS - Part 1 from Nov 09, 2024</itunes:subtitle>
+        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Nov 09, 2024 - Part 1</itunes:summary>
         <itunes:duration>01:10:00</itunes:duration>
         <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
     </item>
     <item>
-        <title>NBMSS-2024.06.29-Pt2</title>
+        <title>NBMSS-2024.11.09-Pt2</title>
         <link>https://www.kfjc.org/listen/archives</link>
-        <guid>https://kfjc.org/archives/2406291000h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2024-Jun 29 pt2</description>
-        <enclosure url="https://kfjc.org/archives/2406291000h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
+        <guid>https://kfjc.org/archives/2411091000h_robert_emmett.mp3</guid>
+        <description>NBMSS - 2024-Nov 09 pt2</description>
+        <enclosure url="https://kfjc.org/archives/2411091000h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
-        <pubDate>Sat, 29 Jun 2024 11:30:00 -0700</pubDate>
+        <pubDate>Sat, 09 Nov 2024 11:30:00 -0700</pubDate>
         <itunes:author>Robert Emmett and KFJC.org</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:subtitle>NBMSS - Part 2 from Jun 29, 2024
+        <itunes:subtitle>NBMSS - Part 2 from Nov 09, 2024
 </itunes:subtitle>
-        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Jun 29, 2024 - Part 2 - This hour usually includes: Bob and Ray, a Cool Secret Place, and The Television Mystery Theme of the Week</itunes:summary>
+        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Nov 09, 2024 - Part 2 - This hour usually includes: Bob and Ray, a Cool Secret Place, and The Television Mystery Theme of the Week</itunes:summary>
         <itunes:duration>01:10:00</itunes:duration>
         <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
     </item>
     <item>
-        <title>NBMSS-2024.06.29-Pt3</title>
+        <title>NBMSS-2024.11.09-Pt3</title>
         <link>https://www.kfjc.org/listen/archives</link>
-        <guid>https://kfjc.org/archives/240629h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2024-Jun 29 pt3</description>
-        <enclosure url="https://kfjc.org/archives/2406291100h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
+        <guid>https://kfjc.org/archives/241109h_robert_emmett.mp3</guid>
+        <description>NBMSS - 2024-Nov 09 pt3</description>
+        <enclosure url="https://kfjc.org/archives/2411091100h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
-        <pubDate>Sat, 29 Jun 2024 12:30:00 -0700</pubDate>
+        <pubDate>Sat, 09 Nov 2024 12:30:00 -0700</pubDate>
         <itunes:author>Robert Emmett and KFJC.org</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:subtitle>NBMSS - Part 3 from Jun 29, 2024
+        <itunes:subtitle>NBMSS - Part 3 from Nov 09, 2024
 </itunes:subtitle>
-        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Jun 29, 2024 - Part 3</itunes:summary>
+        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Nov 09, 2024 - Part 3</itunes:summary>
         <itunes:duration>01:10:00</itunes:duration>
         <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
     </item>
