@@ -7,8 +7,8 @@
     <language>en-us</language>
     <copyright>Copyright 2025
 </copyright>
-    <lastBuildDate>Sat, 10 May 2025 12:15:00 -0700</lastBuildDate>
-    <pubDate>Sat, 10 May 2025 12:15:00 -0700</pubDate>
+    <lastBuildDate>Sat, 10 May 2025 12:30:00 -0700</lastBuildDate>
+    <pubDate>Sat, 10 May 2025 12:30:00 -0700</pubDate>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <webMaster>ackdot1@deeptht.armory.com</webMaster>
     <ttl>60</ttl>
@@ -76,7 +76,7 @@
         <description>NBMSS - 2025-May 10 pt1</description>
         <enclosure url="https://kfjc.org/archives/2505100900h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
-        <pubDate>Sat, 10 May 2025 10:30:00 -0700</pubDate>
+        <pubDate>Sat, 10 May 2025 10:35:00 -0700</pubDate>
         <itunes:author>Robert Emmett and KFJC.org</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:subtitle>NBMSS - Part 1 from May 10, 2025</itunes:subtitle>
@@ -91,7 +91,7 @@
         <description>NBMSS - 2025-May 10 pt2</description>
         <enclosure url="https://kfjc.org/archives/2505101000h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
-        <pubDate>Sat, 10 May 2025 11:30:00 -0700</pubDate>
+        <pubDate>Sat, 10 May 2025 11:35:00 -0700</pubDate>
         <itunes:author>Robert Emmett and KFJC.org</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:subtitle>NBMSS - Part 2 from May 10, 2025
@@ -107,7 +107,7 @@
         <description>NBMSS - 2025-May 10 pt3</description>
         <enclosure url="https://kfjc.org/archives/2505101100h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
-        <pubDate>Sat, 10 May 2025 12:30:00 -0700</pubDate>
+        <pubDate>Sat, 10 May 2025 12:35:00 -0700</pubDate>
         <itunes:author>Robert Emmett and KFJC.org</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:subtitle>NBMSS - Part 3 from May 10, 2025
@@ -116,7 +116,5 @@
         <itunes:duration>01:10:00</itunes:duration>
         <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
     </item>
-</channel>
-</rss>
 </channel>
 </rss>
