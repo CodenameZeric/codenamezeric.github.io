@@ -5,9 +5,10 @@
     <description>This is my attempt at turning the 2 week KFJC archive of the NBMSS into a podcast. This is in no way associated with KFJC. </description>
     <link>https://bit.ly/3bsQD7F</link>
     <language>en-us</language>
-    <copyright>Copyright 2025</copyright>
-    <lastBuildDate>Sat, 08 Nov 2025 12:20:00 -0700</lastBuildDate>
-    <pubDate>Sat, 08 Nov 2025 12:20:00 -0700</pubDate>
+    <copyright>Copyright 2025
+</copyright>
+    <lastBuildDate>Sat, 15 Nov 2025 12:15:00 -0700</lastBuildDate>
+    <pubDate>Sat, 15 Nov 2025 12:15:00 -0700</pubDate>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <webMaster>ackdot1@deeptht.armory.com</webMaster>
     <ttl>60</ttl>
@@ -22,59 +23,13 @@
     <itunes:image href="http://www.armory.com/~ack1/share/ZillenBot.jpeg"/>
     <itunes:category text="Music"></itunes:category>
     <item>
-        <title>NBMSS-2025.11.01-Pt1</title>
-        <link>https://www.kfjc.org/listen/archives</link>
-        <guid>https://kfjc.org/archives/2511010900h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2025-Nov 01-pt1</description>
-        <enclosure url="https://kfjc.org/archives/2511010900h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
-        <category>Music</category>
-        <pubDate>Sat, 01 Nov 2025 10:30:00 -0700</pubDate>
-        <itunes:author>Robert Emmett and KFJC.org</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:subtitle>NBMSS - Part 1 from Nov 01, 2025</itunes:subtitle>
-        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Nov 01, 2025 - Part 1</itunes:summary>
-        <itunes:duration>01:10:00</itunes:duration>
-        <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
-    </item>
-    <item>
-        <title>NBMSS-2025.11.01-Pt2</title>
-        <link>https://www.kfjc.org/listen/archives</link>
-        <guid>https://kfjc.org/archives/2511011000h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2025-Nov 01-pt2</description>
-        <enclosure url="https://kfjc.org/archives/2511011000h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
-        <category>Music</category>
-        <pubDate>Sat, 01 Nov 2025 11:30:00 -0700</pubDate>
-        <itunes:author>Robert Emmett and KFJC.org</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:subtitle>NBMSS - Part 2 from Nov 01, 2025</itunes:subtitle>
-        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Nov 01, 2025 - Part 2 - This hour usually includes: Bob and Ray, a Cool Secret Place, and The Television Mystery Theme of the Week</itunes:summary>
-        <itunes:duration>01:10:00</itunes:duration>
-        <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
-    </item>
-    <item>
-        <title>NBMSS-2025.11.01-Pt3</title>
-        <link>https://www.kfjc.org/listen/archives</link>
-        <guid>https://kfjc.org/archives/2511011100h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2025-Nov 01-pt3</description>
-        <enclosure url="https://kfjc.org/archives/2511011100h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
-        <category>Music</category>
-        <pubDate>Sat, 01 Nov 2025 12:30:00 -0700</pubDate>
-        <itunes:author>Robert Emmett and KFJC.org</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:subtitle>NBMSS - Part 3 from Nov 01, 2025
-</itunes:subtitle>
-        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Nov 01, 2025 - Part 3</itunes:summary>
-        <itunes:duration>01:10:00</itunes:duration>
-        <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
-    </item>
-    <item>
         <title>NBMSS-2025.11.08-Pt1</title>
         <link>https://www.kfjc.org/listen/archives</link>
         <guid>https://kfjc.org/archives/2511080900h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2025-Nov 08 pt1</description>
+        <description>NBMSS - 2025-Nov 08-pt1</description>
         <enclosure url="https://kfjc.org/archives/2511080900h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
-        <pubDate>Sat, 08 Nov 2025 10:35:00 -0700</pubDate>
+        <pubDate>Sat, 08 Nov 2025 10:30:00 -0700</pubDate>
         <itunes:author>Robert Emmett and KFJC.org</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:subtitle>NBMSS - Part 1 from Nov 08, 2025</itunes:subtitle>
@@ -86,14 +41,13 @@
         <title>NBMSS-2025.11.08-Pt2</title>
         <link>https://www.kfjc.org/listen/archives</link>
         <guid>https://kfjc.org/archives/2511081000h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2025-Nov 08 pt2</description>
+        <description>NBMSS - 2025-Nov 08-pt2</description>
         <enclosure url="https://kfjc.org/archives/2511081000h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
-        <pubDate>Sat, 08 Nov 2025 11:35:00 -0700</pubDate>
+        <pubDate>Sat, 08 Nov 2025 11:30:00 -0700</pubDate>
         <itunes:author>Robert Emmett and KFJC.org</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:subtitle>NBMSS - Part 2 from Nov 08, 2025
-</itunes:subtitle>
+        <itunes:subtitle>NBMSS - Part 2 from Nov 08, 2025</itunes:subtitle>
         <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Nov 08, 2025 - Part 2 - This hour usually includes: Bob and Ray, a Cool Secret Place, and The Television Mystery Theme of the Week</itunes:summary>
         <itunes:duration>01:10:00</itunes:duration>
         <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
@@ -101,11 +55,11 @@
     <item>
         <title>NBMSS-2025.11.08-Pt3</title>
         <link>https://www.kfjc.org/listen/archives</link>
-        <guid>https://kfjc.org/archives/251108h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2025-Nov 08 pt3</description>
+        <guid>https://kfjc.org/archives/2511081100h_robert_emmett.mp3</guid>
+        <description>NBMSS - 2025-Nov 08-pt3</description>
         <enclosure url="https://kfjc.org/archives/2511081100h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
-        <pubDate>Sat, 08 Nov 2025 12:35:00 -0700</pubDate>
+        <pubDate>Sat, 08 Nov 2025 12:30:00 -0700</pubDate>
         <itunes:author>Robert Emmett and KFJC.org</itunes:author>
         <itunes:explicit>false</itunes:explicit>
         <itunes:subtitle>NBMSS - Part 3 from Nov 08, 2025
@@ -114,5 +68,53 @@
         <itunes:duration>01:10:00</itunes:duration>
         <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
     </item>
-    </channel>
+
+    <item>
+        <title>NBMSS-2025.11.15-Pt1</title>
+        <link>https://www.kfjc.org/listen/archives</link>
+        <guid>https://kfjc.org/archives/2511150900h_robert_emmett.mp3</guid>
+        <description>NBMSS - 2025-Nov 15 pt1</description>
+        <enclosure url="https://kfjc.org/archives/2511150900h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
+        <category>Music</category>
+        <pubDate>Sat, 15 Nov 2025 10:30:00 -0700</pubDate>
+        <itunes:author>Robert Emmett and KFJC.org</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:subtitle>NBMSS - Part 1 from Nov 15, 2025</itunes:subtitle>
+        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Nov 15, 2025 - Part 1</itunes:summary>
+        <itunes:duration>01:10:00</itunes:duration>
+        <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
+    </item>
+    <item>
+        <title>NBMSS-2025.11.15-Pt2</title>
+        <link>https://www.kfjc.org/listen/archives</link>
+        <guid>https://kfjc.org/archives/2511151000h_robert_emmett.mp3</guid>
+        <description>NBMSS - 2025-Nov 15 pt2</description>
+        <enclosure url="https://kfjc.org/archives/2511151000h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
+        <category>Music</category>
+        <pubDate>Sat, 15 Nov 2025 11:30:00 -0700</pubDate>
+        <itunes:author>Robert Emmett and KFJC.org</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:subtitle>NBMSS - Part 2 from Nov 15, 2025
+</itunes:subtitle>
+        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Nov 15, 2025 - Part 2 - This hour usually includes: Bob and Ray, a Cool Secret Place, and The Television Mystery Theme of the Week</itunes:summary>
+        <itunes:duration>01:10:00</itunes:duration>
+        <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
+    </item>
+    <item>
+        <title>NBMSS-2025.11.15-Pt3</title>
+        <link>https://www.kfjc.org/listen/archives</link>
+        <guid>https://kfjc.org/archives/251115h_robert_emmett.mp3</guid>
+        <description>NBMSS - 2025-Nov 15 pt3</description>
+        <enclosure url="https://kfjc.org/archives/2511151100h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
+        <category>Music</category>
+        <pubDate>Sat, 15 Nov 2025 12:30:00 -0700</pubDate>
+        <itunes:author>Robert Emmett and KFJC.org</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:subtitle>NBMSS - Part 3 from Nov 15, 2025
+</itunes:subtitle>
+        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Nov 15, 2025 - Part 3</itunes:summary>
+        <itunes:duration>01:10:00</itunes:duration>
+        <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
+    </item>
+</channel>
 </rss>
