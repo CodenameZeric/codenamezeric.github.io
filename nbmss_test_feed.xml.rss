@@ -6,8 +6,8 @@
     <link>https://bit.ly/3bsQD7F</link>
     <language>en-us</language>
     <copyright>Copyright 2026 </copyright>
-    <lastBuildDate>Sat, 24 Jan 2026 12:15:00 -0700</lastBuildDate>
-    <pubDate>Sat, 24 Jan 2026 12:15:00 -0700</pubDate>
+    <lastBuildDate>Sat, 31 Jan 2026 12:15:00 -0700</lastBuildDate>
+    <pubDate>Sat, 31 Jan 2026 12:15:00 -0700</pubDate>
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <webMaster>ackdot1@deeptht.armory.com</webMaster>
     <ttl>60</ttl>
@@ -22,56 +22,10 @@
     <itunes:image href="http://www.armory.com/~ack1/share/ZillenBot.jpeg"/>
     <itunes:category text="Music"></itunes:category>
     <item>
-        <title>NBMSS-2026.01.17-Pt1</title>
-        <link>https://www.kfjc.org/listen/archives</link>
-        <guid>https://kfjc.org/archives/2601170900h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2026-Jan 17-pt1</description>
-        <enclosure url="https://kfjc.org/archives/2601170900h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
-        <category>Music</category>
-        <pubDate>Sat, 17 Jan 2026 10:30:00 -0700</pubDate>
-        <itunes:author>Robert Emmett and KFJC.org</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:subtitle>NBMSS - Part 1 from Jan 17, 2026</itunes:subtitle>
-        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Jan 17, 2026 - Part 1</itunes:summary>
-        <itunes:duration>01:10:00</itunes:duration>
-        <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
-    </item>
-    <item>
-        <title>NBMSS-2026.01.17-Pt2</title>
-        <link>https://www.kfjc.org/listen/archives</link>
-        <guid>https://kfjc.org/archives/2601171000h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2026-Jan 17-pt2</description>
-        <enclosure url="https://kfjc.org/archives/2601171000h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
-        <category>Music</category>
-        <pubDate>Sat, 17 Jan 2026 11:30:00 -0700</pubDate>
-        <itunes:author>Robert Emmett and KFJC.org</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:subtitle>NBMSS - Part 2 from Jan 17, 2026</itunes:subtitle>
-        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Jan 17, 2026 - Part 2 - This hour usually includes: Bob and Ray, a Cool Secret Place, and The Television Mystery Theme of the Week</itunes:summary>
-        <itunes:duration>01:10:00</itunes:duration>
-        <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
-    </item>
-    <item>
-        <title>NBMSS-2026.01.17-Pt3</title>
-        <link>https://www.kfjc.org/listen/archives</link>
-        <guid>https://kfjc.org/archives/2601171100h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2026-Jan 17-pt3</description>
-        <enclosure url="https://kfjc.org/archives/2601171100h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
-        <category>Music</category>
-        <pubDate>Sat, 17 Jan 2026 12:30:00 -0700</pubDate>
-        <itunes:author>Robert Emmett and KFJC.org</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:subtitle>NBMSS - Part 3 from Jan 17, 2026 </itunes:subtitle>
-        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Jan 17, 2026 - Part 3</itunes:summary>
-        <itunes:duration>01:10:00</itunes:duration>
-        <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
-    </item>
-
-    <item>
         <title>NBMSS-2026.01.24-Pt1</title>
         <link>https://www.kfjc.org/listen/archives</link>
         <guid>https://kfjc.org/archives/2601240900h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2026-Jan 24 pt1</description>
+        <description>NBMSS - 2026-Jan 24-pt1</description>
         <enclosure url="https://kfjc.org/archives/2601240900h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
         <pubDate>Sat, 24 Jan 2026 10:30:00 -0700</pubDate>
@@ -86,13 +40,13 @@
         <title>NBMSS-2026.01.24-Pt2</title>
         <link>https://www.kfjc.org/listen/archives</link>
         <guid>https://kfjc.org/archives/2601241000h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2026-Jan 24 pt2</description>
+        <description>NBMSS - 2026-Jan 24-pt2</description>
         <enclosure url="https://kfjc.org/archives/2601241000h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
         <pubDate>Sat, 24 Jan 2026 11:30:00 -0700</pubDate>
         <itunes:author>Robert Emmett and KFJC.org</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:subtitle>NBMSS - Part 2 from Jan 24, 2026 </itunes:subtitle>
+        <itunes:subtitle>NBMSS - Part 2 from Jan 24, 2026</itunes:subtitle>
         <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Jan 24, 2026 - Part 2 - This hour usually includes: Bob and Ray, a Cool Secret Place, and The Television Mystery Theme of the Week</itunes:summary>
         <itunes:duration>01:10:00</itunes:duration>
         <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
@@ -100,8 +54,8 @@
     <item>
         <title>NBMSS-2026.01.24-Pt3</title>
         <link>https://www.kfjc.org/listen/archives</link>
-        <guid>https://kfjc.org/archives/260124h_robert_emmett.mp3</guid>
-        <description>NBMSS - 2026-Jan 24 pt3</description>
+        <guid>https://kfjc.org/archives/2601241100h_robert_emmett.mp3</guid>
+        <description>NBMSS - 2026-Jan 24-pt3</description>
         <enclosure url="https://kfjc.org/archives/2601241100h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
         <category>Music</category>
         <pubDate>Sat, 24 Jan 2026 12:30:00 -0700</pubDate>
@@ -109,6 +63,52 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:subtitle>NBMSS - Part 3 from Jan 24, 2026 </itunes:subtitle>
         <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Jan 24, 2026 - Part 3</itunes:summary>
+        <itunes:duration>01:10:00</itunes:duration>
+        <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
+    </item>
+
+    <item>
+        <title>NBMSS-2026.01.31-Pt1</title>
+        <link>https://www.kfjc.org/listen/archives</link>
+        <guid>https://kfjc.org/archives/2601310900h_robert_emmett.mp3</guid>
+        <description>NBMSS - 2026-Jan 31 pt1</description>
+        <enclosure url="https://kfjc.org/archives/2601310900h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
+        <category>Music</category>
+        <pubDate>Sat, 31 Jan 2026 10:30:00 -0700</pubDate>
+        <itunes:author>Robert Emmett and KFJC.org</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:subtitle>NBMSS - Part 1 from Jan 31, 2026</itunes:subtitle>
+        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Jan 31, 2026 - Part 1</itunes:summary>
+        <itunes:duration>01:10:00</itunes:duration>
+        <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
+    </item>
+    <item>
+        <title>NBMSS-2026.01.31-Pt2</title>
+        <link>https://www.kfjc.org/listen/archives</link>
+        <guid>https://kfjc.org/archives/2601311000h_robert_emmett.mp3</guid>
+        <description>NBMSS - 2026-Jan 31 pt2</description>
+        <enclosure url="https://kfjc.org/archives/2601311000h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
+        <category>Music</category>
+        <pubDate>Sat, 31 Jan 2026 11:30:00 -0700</pubDate>
+        <itunes:author>Robert Emmett and KFJC.org</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:subtitle>NBMSS - Part 2 from Jan 31, 2026 </itunes:subtitle>
+        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Jan 31, 2026 - Part 2 - This hour usually includes: Bob and Ray, a Cool Secret Place, and The Television Mystery Theme of the Week</itunes:summary>
+        <itunes:duration>01:10:00</itunes:duration>
+        <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
+    </item>
+    <item>
+        <title>NBMSS-2026.01.31-Pt3</title>
+        <link>https://www.kfjc.org/listen/archives</link>
+        <guid>https://kfjc.org/archives/260131h_robert_emmett.mp3</guid>
+        <description>NBMSS - 2026-Jan 31 pt3</description>
+        <enclosure url="https://kfjc.org/archives/2601311100h_robert_emmett.mp3" length="67201527" type="audio/mpeg"/>
+        <category>Music</category>
+        <pubDate>Sat, 31 Jan 2026 12:30:00 -0700</pubDate>
+        <itunes:author>Robert Emmett and KFJC.org</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:subtitle>NBMSS - Part 3 from Jan 31, 2026 </itunes:subtitle>
+        <itunes:summary>KFJC's Norman Bates Memorial Soundtrack Show with Robert Emmett - Jan 31, 2026 - Part 3</itunes:summary>
         <itunes:duration>01:10:00</itunes:duration>
         <itunes:keywords>Robert Emmett, KFJC, soundtracks, showtunes, show tunes, television themes, commercials </itunes:keywords>
     </item>
